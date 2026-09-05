@@ -1,16 +1,31 @@
-## Hi there 👋
+# Bok, ja sam Lora 👋
 
-<!--
-**LoKovace/LoKovace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Database Administrator s fokusom na SQL Server, T-SQL i dizajn relacijskih baza podataka.
 
-Here are some ideas to get you started:
+## Tehnologije i područja
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL Server
+- T-SQL
+- SQL Server Management Studio
+- relacijske baze podataka
+- dizajn i modeliranje baza podataka
+- Git i GitHub
+- osnove Azure okruženja
+
+## Istaknuti projekt
+
+### GamingShop Database
+
+SQL Server projekt za upravljanje katalogom proizvoda i zalihama u gaming trgovini.
+
+Projekt uključuje:
+- relacijski model baze
+- primarne i strane ključeve
+- ograničenja i indekse
+- poglede
+- funkcije
+- pohranjene procedure
+- ER dijagram
+- dokumentaciju projekta
+
+➡️ [GamingShop-Database](https://github.com/LoKovace/GamingShop-Database)
